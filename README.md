@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### 👩‍💻 About Me
-I'm Amanda Bicalho Silva, a Software Engineering graduate passionate about technology, creativity, and innovation.  
-Currently focused on **Frontend Development**, improving my skills and building modern web applications.
+I'm Amanda Bicalho Silva, a Software Engineering student at PUC Minas, passionate about technology, creativity, and innovation.  
+I’m currently focused on **Frontend Development**, building modern web applications and continuously improving my technical skills.
 
 ### 🚀 What I'm Doing
 - 🔭 Working on **Frontend projects**
