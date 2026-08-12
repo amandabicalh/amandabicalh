@@ -1,14 +1,14 @@
-## Hi there 👋
-
 ### 👩‍💻 About Me
-I'm Amanda Bicalho Silva, a Software Engineering student at PUC Minas, passionate about technology, creativity, and innovation.  
-I’m currently focused on **Frontend Development**, building modern web applications and continuously improving my technical skills.
+
+I'm Amanda Bicalho Silva, a Software Engineering student at PUC Minas, passionate about technology, creativity, and innovation.
+I’m currently focused on **Software Development**, building applications and exploring different areas of software engineering while continuously improving my technical skills.
 
 ### 🚀 What I'm Doing
-- 🔭 Working on **Frontend projects**
-- 🌱 Learning **React, TypeScript, and modern web technologies**
-- 📱 Next step: diving into **Swift** for iOS development
-- 💡 Always looking to improve my problem-solving and coding skills
+
+- 🔭 Working on **Software Development projects**
+- 🌱 Learning and improving my skills in **React, TypeScript, Node.js, Java, and modern software development practices**
+- 🧪 Exploring **Software Quality and Testing**
+- 💡 Always looking to improve my problem-solving, coding, and software engineering skills
 
 
   ## 📊 GitHub Stats
